@@ -1,0 +1,44 @@
+DESCRIPTION
+Do you want to solve business challenges through innovative technology? Do you enjoy working on cutting-edge, scalable services technology in a team environment? Do you like working on industry-defining projects that move the needle?
+
+At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The focus we have on our customers is why we are one of the world’s most beloved brands – customer obsession is part of our company DNA. Our Software Development Engineers (SDEs) use cutting-edge technology to solve complex problems and get to see the impact of their work first-hand.
+
+The challenges SDEs solve for at Amazon are big and influence millions of customers, sellers, and products around the world. We are looking for individuals who are passionate about creating new products, features, and services from scratch while managing ambiguity and the pace of a company where development cycles are measured in weeks, not years.
+
+Key Job Responsibilities
+· Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.
+· Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.
+· Create solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed.
+· Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use.
+· Design and code the right solutions starting with broadly defined problems.
+· Work in an agile environment to deliver high-quality software.
+
+
+To qualify, applicants should have earned a Bachelor’s or Master’s degree between October 2020 to September 2022. Possible start dates for this role are between February 2022 to October 2022.
+
+NOTE: By applying to this position your application will be considered for all locations we hire for in the United States. This includes, but is not limited to AZ (Phoenix, Tempe); CA (Berkeley, Culver City, Cupertino, East Palo Alto, Irvine, Los Angeles, Manhattan Beach, Palo Alto, San Francisco, San Jose, Santa Clara, Sunnyvale, San Diego, San Luis Obispo, Santa Barbara, Santa Cruz, Santa Monica) CO (Boulder, Denver); GA (Atlanta, Kennesaw); MA (Boston, Cambridge, North Reading); MD (Baltimore); MI (Detroit); MN (Minneapolis); NJ (Jersey City); NY (New York); OR (Portland); PA (Philadelphia, Pittsburg); TN (Nashville); TX (Austin, Dallas); VA (Arlington, Herndon); WI (Madison), WA (Bellevue, Seattle, Redmond). Locations are subject to change.
+
+
+If this opportunity interests you, apply and come chart your own path at Amazon.
+
+NOTE: Applications are reviewed on a rolling basis. For an update on your status, or to confirm your application was submitted successfully, please login to your candidate portal. Please understand that we are reviewing a high volume of applicants, and appreciate your patience as we review applications for future Amazonians!
+
+BASIC QUALIFICATIONS
+· Currently enrolled in or completed within the last 6 months a Bachelor's or Master's Degree in Computer Science, Computer Engineering, or related fields
+· Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+
+PREFERRED QUALIFICATIONS
+· Previous technical internship(s), if applicable.
+· Experience with distributed, multi-tiered systems, algorithms, and relational databases.
+· Experience in optimization mathematics such as linear programming and nonlinear optimization.
+· Ability to effectively articulate technical challenges and solutions.
+· Adept at handling ambiguous or undefined problems as well as ability to think abstractly.
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Pursuant to the Los Angeles Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+The pay for this position in Colorado is $116,000/yr; however, base pay offered may vary depending on job-related knowledge, skills, and experience. A sign-on bonus and restricted stock units may be provided as part of the compensation package, in addition to a full range of medical, financial, and/or other benefits, dependent on the position offered. This information is provided per the Colorado Equal Pay Act. Base pay information is based on market location. Applicants should apply via Amazon's internal or external careers site.
